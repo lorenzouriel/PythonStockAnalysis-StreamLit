@@ -6,6 +6,7 @@ Coleta os dados da API Yahoo Finance e os exibe utilizando o StreamLit.
 ![image](https://user-images.githubusercontent.com/92133074/221050078-01a3b9e2-f66b-4105-94fc-ef3b5bb6d46c.png)
 
 
+--------------------------------------------------------------------------------------------------------------------------------------
 Passos para Rodar a Solução:
 
 1 - Crie uma pasta nova para o projeto;
